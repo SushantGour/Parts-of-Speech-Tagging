@@ -1,2 +1,2 @@
 # Parts-of-Speech-Tagging
-This repository is about the Parts of Speech Tagging project mentioned in my resume. It is a project related to AI. All the material related to the project i.e. the training data, test data, code etc. are present in this repository.
+This repository is about the Parts of Speech Tagging project mentioned in my resume. It is a project related to AI. All the material related to the project i.e. the training data, test data, code etc. are present in this repository. The goal of the project is to assign parts of speech tags to a given sequence of input word. The project uses Hidden Markov Model and I implemented the Viterbi Algorithm to find the best probable sequence of tags for a given sequence of words. 
